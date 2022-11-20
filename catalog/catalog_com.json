@@ -1,0 +1,375 @@
+[
+    {
+        "number": "COM CM 211",
+        "title": "Professional Presentation",
+        "units": [
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "number": "COM CM 331",
+        "title": "Writing for Communication",
+        "units": [
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "CO 201",
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "COM CM 334",
+        "title": "Advertising in the U.K.",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "COM CM 413",
+        "title": "Problem Solving in British Public Relations ",
+        "units": [
+            "Social Inquiry I",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM CM 420",
+        "title": "Ad Lab",
+        "units": [
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "CM 317",
+            "CM 217"
+        ]
+    },
+    {
+        "number": "COM CM 421",
+        "title": "AdLab E-Board",
+        "units": [
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "CM 317",
+            "CM 217"
+        ]
+    },
+    {
+        "number": "COM CM 457",
+        "title": "Seminar in Global Promotional Strategies",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Social Inquiry II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "COM CM 501",
+        "title": "Design Strategy & Software",
+        "units": [
+            "Aesthetic Exploration",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM CM 510",
+        "title": "Media Expression and Communication",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "COM CM 518",
+        "title": "Creative Video Development",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Teamwork/Collaboration",
+            "Creativity/Innovation"
+        ],
+        "prerequisites": [
+            "CM 217",
+            "CM 417"
+        ]
+    },
+    {
+        "number": "COM CM 521",
+        "title": "International Marketing Communications and Public Relations",
+        "units": [
+            "Social Inquiry I",
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "number": "COM CM 525",
+        "title": "Public Relations Ethics",
+        "units": [
+            "Ethical Reasoning"
+        ],
+        "prerequisites": [
+            "CM 215",
+            "CM 701"
+        ]
+    },
+    {
+        "number": "COM CM 580",
+        "title": "PRLab",
+        "units": [
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "CM 215",
+            "CM 331"
+        ]
+    },
+    {
+        "number": "COM CM 581",
+        "title": "PRLab Executive Board",
+        "units": [
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "CM 215",
+            "CM 331"
+        ]
+    },
+    {
+        "number": "COM CO 101",
+        "title": "The World of Communication: The Human Storyteller",
+        "units": [
+            "Social Inquiry I",
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "COM CO 201",
+        "title": "Introduction to Communication Writing",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "COM CO 305",
+        "title": "Photography Fundamentals",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM CO 532",
+        "title": "Copyediting Fundamentals",
+        "units": [
+            "Research and Information Literacy",
+            "Teamwork/Collaboration",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "WR 120"
+        ]
+    },
+    {
+        "number": "COM FT 201",
+        "title": "Screen Language",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM FT 250",
+        "title": "Understanding Film",
+        "units": [
+            "Aesthetic Exploration",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "COM FT 303",
+        "title": "Understanding Television",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "COM FT 310",
+        "title": "Storytelling for Film & Television",
+        "units": [
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "COM FT 402",
+        "title": "Production II",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "FT 353",
+            "FT 502",
+            "FT 508",
+            "FT 526",
+            "FT 565",
+            "FT 592",
+            "FT 593"
+        ]
+    },
+    {
+        "number": "COM FT 411",
+        "title": "Screenwriting I",
+        "units": [
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "FT 310"
+        ]
+    },
+    {
+        "number": "COM FT 500",
+        "title": "Writing Film Criticism",
+        "units": [
+            "Aesthetic Exploration",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "COM JO 150",
+        "title": "History and Principles of Journalism",
+        "units": [
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "COM JO 200",
+        "title": "Newswriting",
+        "units": [
+            "Critical Thinking",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120",
+            "CO 201"
+        ]
+    },
+    {
+        "number": "COM JO 205",
+        "title": "Visual Storytelling",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM JO 210",
+        "title": "Reporting in Depth",
+        "units": [
+            "The Individual in Community",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "JO 200",
+            "JO 205"
+        ]
+    },
+    {
+        "number": "COM JO 300",
+        "title": "Media & Democracy - Journalism in an Age of Disinformation",
+        "units": [
+            "The Individual in Community",
+            "Ethical Reasoning",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "COM JO 322",
+        "title": "Smart Phone Reporting",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "WR 120"
+        ]
+    },
+    {
+        "number": "COM JO 350",
+        "title": "Law and Ethics of Journalism",
+        "units": [
+            "Ethical Reasoning",
+            "Social Inquiry II",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "COM JO 358",
+        "title": "British Journalism, Culture, and Society",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM JO 519",
+        "title": "Narrative Radio",
+        "units": [
+            "The Individual in Community",
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM JO 530",
+        "title": "Drafts of History",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Social Inquiry II"
+        ],
+        "prerequisites": [
+            "JO 357"
+        ]
+    },
+    {
+        "number": "COM JO 539",
+        "title": "Global Health Storytelling ",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "COM JO 543",
+        "title": "Rescuing Lost Stories: Writing Nonfiction Narratives from the Archives",
+        "units": [
+            "Historical Consciousness",
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    }
+]

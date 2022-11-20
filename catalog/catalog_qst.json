@@ -1,0 +1,200 @@
+[
+    {
+        "number": "QST BA 222",
+        "title": "Modeling Business Decisions and Market Outcomes with Spreadsheets and Statistical  Programming",
+        "units": [
+            "Quantitative Reasoning II"
+        ],
+        "prerequisites": [
+            "EC 101",
+            "QM 221",
+            "SM 131"
+        ]
+    },
+    {
+        "number": "QST MO 221",
+        "title": "The Dynamics of Leading Organizations",
+        "units": [
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "SM 131"
+        ]
+    },
+    {
+        "number": "QST MO 356",
+        "title": "Leadership and Management of Social Enterprises",
+        "units": [
+            "Ethical Reasoning"
+        ],
+        "prerequisites": [
+            "SM 131",
+            "SI 250",
+            "SI 480",
+            "FT 591",
+            "HF 231"
+        ]
+    },
+    {
+        "number": "QST MO 442",
+        "title": "Leveraging Diversity for Team Performance",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST MO 460",
+        "title": "The Leadership Challenge",
+        "units": [
+            "The Individual in Community",
+            "Oral and/or Signed Communication",
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST PL 325",
+        "title": "Introduction to the Health Sector: Issues and Opportunities ",
+        "units": [
+            "Social Inquiry II"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST PL 330",
+        "title": "The U.S. Healthcare System in Transition",
+        "units": [
+            "Social Inquiry II"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST PL 350",
+        "title": "The Psychology of Decision Making: Implications for Business and Public Policy",
+        "units": [
+            "Social Inquiry II",
+            "Critical Thinking"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST QM 221",
+        "title": "Probabilistic and Statistical Decision-Making for Management",
+        "units": [
+            "Quantitative Reasoning I"
+        ],
+        "prerequisites": [
+            "SM 131",
+            "MA 120",
+            "MA 121",
+            "MA 123"
+        ]
+    },
+    {
+        "number": "QST QM 222",
+        "title": "Modeling Business Decisions and Market Outcomes",
+        "units": [
+            "Quantitative Reasoning II"
+        ],
+        "prerequisites": [
+            "EC 101",
+            "QM 221",
+            "SM 131"
+        ]
+    },
+    {
+        "number": "QST SI 250",
+        "title": "Ideas to Impact",
+        "units": [
+            "Social Inquiry I",
+            "The Individual in Community",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "QST SI 340",
+        "title": "Family Business Management",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy",
+            "Critical Thinking"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST SI 422",
+        "title": "Strategy, Innovation, and Global Competition",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "FE 323",
+            "MK 323",
+            "OM 323",
+            "QM 323",
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "QST SI 453",
+        "title": "Strategies in Environmental Sustainability",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "SM 131",
+            "SI 250",
+            "SI 480",
+            "FT 591",
+            "HF 307"
+        ]
+    },
+    {
+        "number": "QST SI 480",
+        "title": "The Business of Technology Innovation",
+        "units": [
+            "Historical Consciousness",
+            "Social Inquiry I"
+        ],
+        "prerequisites": []
+    },
+    {
+        "number": "QST SM 131",
+        "title": "Business, Ethics, and the Creation of Value",
+        "units": [
+            "Ethical Reasoning"
+        ],
+        "prerequisites": [
+        ]
+    },
+    {
+        "number": "QST SM 275",
+        "title": "Management Communications",
+        "units": [
+            "Writing, Research, and Inquiry",
+            "Oral and/or Signed Communication",
+            "Research and Information Literacy"
+        ],
+        "prerequisites": [
+            "SM 131",
+            "WR 120",
+            "WR 150"
+        ]
+    },
+    {
+        "number": "QST SM 303",
+        "title": "Cross-Functional Core",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Teamwork/Collaboration",
+            "Creativity/Innovation"
+        ]
+    }
+]

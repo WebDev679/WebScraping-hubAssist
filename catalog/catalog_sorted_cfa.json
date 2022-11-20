@@ -1,0 +1,973 @@
+[
+    {
+        "number": "CFA AR 121",
+        "title": "Foundation Sculpture ",
+        "units": [
+            "Aesthetic Exploration",
+            "The Individual in Community",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 123",
+        "title": "Foundation Design: Introductory Principles, Practices",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA AR 131",
+        "title": "Drawing 1",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 132",
+        "title": "Drawing One: Drawing as Visual Language",
+        "units": [
+            "Aesthetic Exploration",
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "number": "CFA AR 193",
+        "title": "Visual Arts Drawing",
+        "units": [
+            "Aesthetic Exploration",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 194",
+        "title": "Mixed Media Drawing and Collage",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 221",
+        "title": "Materials and Methods in Sculpture",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA AR 224",
+        "title": "New Genres in Sculpture",
+        "units": [
+            "Aesthetic Exploration",
+            "Digital/Multimedia Expression",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CFA AR 225",
+        "title": "Sophomore Graphic Design Fall: Form-Making, Communication ",
+        "units": [
+            "Aesthetic Exploration",
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA AR 236",
+        "title": "Human Anatomy for the Artist",
+        "units": [
+            "Scientific Inquiry I"
+        ]
+    },
+    {
+        "number": "CFA AR 242",
+        "title": "Painting 3",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA AR 250",
+        "title": "Introduction to Printmaking",
+        "units": [
+            "Aesthetic Exploration",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA AR 261",
+        "title": "Introduction to Art Education",
+        "units": [
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "CFA AR 329",
+        "title": "Contemporary Issues Semester 1 (2 credits) Fall term",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA AR 331",
+        "title": "Contemporary Issues: Interpretation 2 credits Fall term",
+        "units": [
+            "Ethical Reasoning"
+        ]
+    },
+    {
+        "number": "CFA AR 332",
+        "title": "Senior Painting Seminar 2 credits Spring term",
+        "units": [
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA AR 340",
+        "title": "The Arts in Ireland",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "CFA AR 341",
+        "title": "Junior Painting Studio",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 369",
+        "title": "Art, Community, and Social Engagement",
+        "units": [
+            "The Individual in Community",
+            "Global Citizenship and Intercultural Literacy",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 381",
+        "title": "Junior Graphic Design Fall: Audience, Authorship ",
+        "units": [
+            "Research and Information Literacy",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA AR 412",
+        "title": "Architectural Design 1",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 425",
+        "title": "The Artist and the Book (4 credits Spring term)",
+        "units": [
+            "Research and Information Literacy",
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA AR 428",
+        "title": "Architecture Site Design 1",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 447",
+        "title": "Printmaking 1: Etching & Monotype",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 450",
+        "title": "The Art of the Multiple",
+        "units": [
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA AR 470",
+        "title": "Ceramics 1",
+        "units": [
+            "Aesthetic Exploration",
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 484",
+        "title": "Senior Graphic Design Studio",
+        "units": [
+            "Teamwork/Collaboration",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 501",
+        "title": "Drw Ven",
+        "units": [
+            "Aesthetic Exploration",
+            "Global Citizenship and Intercultural Literacy",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 508",
+        "title": "The Experimental Photograph",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Digital/Multimedia Expression",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA AR 512",
+        "title": "Architectural Design 2",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 515",
+        "title": "Digital Photo",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Critical Thinking",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 517",
+        "title": "Digital Printmaking: Ink & Pixel 4 credits Spring term ",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA AR 545",
+        "title": "Performative Text and Design",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA AR 558",
+        "title": "Contemporary Issues in Art Education (4 credits; fall semester)",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "CFA AR 565",
+        "title": "Art, Access, and Inclusion (4 credits; spring semester)",
+        "units": [
+            "Ethical Reasoning"
+        ]
+    },
+    {
+        "number": "CFA AR 580",
+        "title": "History of Graphic Design",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA AR 586",
+        "title": "Child Growth and Development in Art Education",
+        "units": [
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA AR 770",
+        "title": "Ceramics 1",
+        "units": [
+            "Aesthetic Exploration",
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA FA 100",
+        "title": "Doing, Making & Knowing: The CFA Experience",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings"
+        ]
+    },
+    {
+        "number": "CFA FA 520",
+        "title": "Career Development in the Arts",
+        "units": [
+            "Quantitative Reasoning I",
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "number": "CFA FA 550",
+        "title": "Arts Internship",
+        "units": [
+            "The Individual in Community",
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA ME 203",
+        "title": "Introduction to Music Teaching and Learning",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings"
+        ]
+    },
+    {
+        "number": "CFA ME 307",
+        "title": "Secondary General Music Methods",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "CFA ME 344",
+        "title": "Technology for Musicians",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA ME 374",
+        "title": "Arts Engagement: Cultivating a Deeper Relationship with the Natural    Environment to Foster Sustainable Life-Ways",
+        "units": [
+            "The Individual in Community",
+            "Ethical Reasoning",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA ME 506",
+        "title": "Elementary General Music Methods",
+        "units": [
+            "The Individual in Community",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA ME 507",
+        "title": "Secondary General Music Methods",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "CFA ME 544",
+        "title": "Technology for Musicians",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA MH 106",
+        "title": "Music and Culture ",
+        "units": [
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "CFA MH 211",
+        "title": "History & Literature of Music 1",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA MH 404",
+        "title": "Approaches to Sacred Music East and West",
+        "units": [
+            "The Individual in Community",
+            "Global Citizenship and Intercultural Literacy",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA MH 408",
+        "title": "Bob Dylan: Music and Words",
+        "units": [
+            "Aesthetic Exploration",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA MH 409",
+        "title": "Music of Black Americans",
+        "units": [
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "CFA MH 412",
+        "title": "Popular Music of the 50s",
+        "units": [
+            "Historical Consciousness",
+            "Critical Thinking",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA MH 436",
+        "title": "Musical Culture",
+        "units": [
+            "Aesthetic Exploration",
+            "Global Citizenship and Intercultural Literacy",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA MP 331",
+        "title": "Song Literature 1 ",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 332",
+        "title": "Song Literature 2",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA MP 408",
+        "title": "Chamber Music",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 409",
+        "title": "Chamber Music 2",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA MP 411",
+        "title": "Piano Literature 1",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA MP 415",
+        "title": "Piano Pedagogy and Practicum 1",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 416",
+        "title": "Piano Pedagogy and Practicum 2",
+        "units": [
+            "Historical Consciousness",
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA MP 445",
+        "title": "String Pedagogy and Practicum 1",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 446",
+        "title": "String Pedagogy and Practicum 2",
+        "units": [
+            "The Individual in Community",
+            "Ethical Reasoning",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA MP 608",
+        "title": "Chamber Music",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 609",
+        "title": "Baroque Chamber Music",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA MP 615",
+        "title": "Piano Pedagogy 1",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 616",
+        "title": "Piano Pedagogy 2 ",
+        "units": [
+            "Historical Consciousness",
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA MP 645",
+        "title": "String Pedagogy and Practicum 1",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MP 646",
+        "title": "String Pedagogy and Practicum 2 ",
+        "units": [
+            "The Individual in Community",
+            "Ethical Reasoning",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA MT 105",
+        "title": "Elements of Music Theory",
+        "units": [
+            "Aesthetic Exploration",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA MT 201",
+        "title": "Music Theory 3",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MT 202",
+        "title": "Music Theory 4",
+        "units": [
+            "Aesthetic Exploration",
+            "Quantitative Reasoning I",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA MT 301",
+        "title": "Music Theory 5",
+        "units": [
+            "Quantitative Reasoning II"
+        ]
+    },
+    {
+        "number": "CFA MT 435",
+        "title": "Composing with Electronic Sounds and Computers 1",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA MT 472",
+        "title": "Music Perception and Cognition",
+        "units": [
+            "Quantitative Reasoning II",
+            "Social Inquiry II",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA MT 635",
+        "title": "Composing with Electronic Sounds and Computers 1",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA MT 772",
+        "title": "Music Perception and Cognition",
+        "units": [
+            "Quantitative Reasoning II",
+            "Social Inquiry II",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA MU 185",
+        "title": "Marching Band",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA MU 186",
+        "title": "Pep Band",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA TH 101",
+        "title": "Introduction to Aesthetics and Dramatic Literature",
+        "units": [
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CFA TH 102",
+        "title": "Dramatic Literature 1: Greeks to the late 19th c",
+        "units": [
+            "Historical Consciousness",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA TH 111",
+        "title": "Voice & Speech 1: The Human Instrument",
+        "units": [
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "number": "CFA TH 121",
+        "title": "Acting 1: Personal Approach to Acting ",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 128",
+        "title": "Theatre Ensemble 1: Introduction to Theatre Making",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA TH 132",
+        "title": "Movement 1: The Speaking Body - Freeing and Developing the Expressive Human    Instrument",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 139",
+        "title": "20th Century Dance History",
+        "units": [
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "CFA TH 152",
+        "title": "Introduction to Design ",
+        "units": [
+            "Aesthetic Exploration",
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 201",
+        "title": "Dramatic Literature 2: 1850 to 1950",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA TH 202",
+        "title": "Dramatic Literature 3: 1950 to 1990",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CFA TH 228",
+        "title": "Theatre Ensemble 2: Adaptation ",
+        "units": [
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA TH 239",
+        "title": "Aesthetic and Philosophy of Dance",
+        "units": [
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "CFA TH 240",
+        "title": "Beginning Directing",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA TH 255",
+        "title": "History of Costumes 1",
+        "units": [
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "CFA TH 256",
+        "title": "History of Costumes 2",
+        "units": [
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA TH 263",
+        "title": "Scene Design 1",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 270",
+        "title": "Technical Production 2",
+        "units": [
+            "Quantitative Reasoning I"
+        ]
+    },
+    {
+        "number": "CFA TH 275",
+        "title": "Costume Design 1",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 279",
+        "title": "Costume Production 1",
+        "units": [
+            "Quantitative Reasoning I"
+        ]
+    },
+    {
+        "number": "CFA TH 280",
+        "title": "Costume Production 2",
+        "units": [
+            "Quantitative Reasoning II"
+        ]
+    },
+    {
+        "number": "CFA TH 283",
+        "title": "Lighting Design 1",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 284",
+        "title": "Lighting Design 2",
+        "units": [
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CFA TH 287",
+        "title": "Sound Design 1",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 288",
+        "title": "Sound Design 2",
+        "units": [
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CFA TH 299",
+        "title": "Stage Management 2",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA TH 303",
+        "title": "Playwriting 1",
+        "units": [
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA TH 355",
+        "title": "History of Period Styles ",
+        "units": [
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "CFA TH 369",
+        "title": "Technical Production 3",
+        "units": [
+            "Quantitative Reasoning I"
+        ]
+    },
+    {
+        "number": "CFA TH 370",
+        "title": "Technical Production 4",
+        "units": [
+            "Quantitative Reasoning II"
+        ]
+    },
+    {
+        "number": "CFA TH 399",
+        "title": "Stage Management 3: Types & Styles",
+        "units": [
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CFA TH 401",
+        "title": "Classic Theatre through a Contemporary Lens",
+        "units": [
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA TH 402",
+        "title": "Contemporary Dramatic Literature",
+        "units": [
+            "The Individual in Community",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "CFA TH 422",
+        "title": "Acting 4: Professional Lifetime Skills",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CFA TH 427",
+        "title": "Theatre Ensemble 4: Thesis Development",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA TH 429",
+        "title": "Understanding the Camera",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA TH 430",
+        "title": "Professional Theatre Initiative Lab",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "CFA TH 440",
+        "title": "Experiencing London Theatre in the Postwar World",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "CFA TH 450",
+        "title": "Senior Thesis: Acting",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA TH 453",
+        "title": "Master Class: Undergrad",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CFA TH 495",
+        "title": "Production Management",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA TH 508",
+        "title": "Contemporary British Theatre",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Aesthetic Exploration"
+        ]
+    },
+    {
+        "number": "CFA TH 555",
+        "title": "History of Theatre 1",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "CFA TH 556",
+        "title": "History of Theatre 2",
+        "units": [
+            "Historical Consciousness",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CFA TH 594",
+        "title": "Theatre Management",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "CFA TH 670",
+        "title": "Technical Production Studio 1",
+        "units": [
+            "Quantitative Reasoning I"
+        ]
+    },
+    {
+        "number": "CFA TH 695",
+        "title": "Production Management",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "CFA TH 755",
+        "title": "History of Period Styles 1",
+        "units": [
+            "Historical Consciousness"
+        ]
+    }
+]

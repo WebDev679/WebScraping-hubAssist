@@ -1,0 +1,319 @@
+[
+    {
+        "number": "HUB CC 100",
+        "title": "Cocurricular: Communicating Wellness: An Immersive Experience in Teamwork and     Collaboration",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "HUB CC 101",
+        "title": "Cocurricular: Individual and Community Health and Well-being at BU",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 120",
+        "title": "Cocurricular: Vocation",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 121",
+        "title": "Cocurricular: Critical Reflection on Community Engagement",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 122",
+        "title": "Cocurricular: Gender, Identity, and Education",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 123",
+        "title": "Cocurricular: How Very Queer: Who Am I Really?!",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 125",
+        "title": "Cocurricular: Global House: Building Diverse Communities I",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "HUB CC 126",
+        "title": "Cocurricular: Global House: Building Diverse Communities II",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 128",
+        "title": "Cocurricular: Belonging on Campus",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 130",
+        "title": "Cocurricular: Life's Big Questions: Exploring Jewish Identities in Community",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 131",
+        "title": "Cocurricular: The North End as Idea and Experience",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 133",
+        "title": "Cocurricular: The Individual, Community, and the Arts",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 135",
+        "title": "Cocurricular: Global House: Exploring Cultures & Languages I",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "HUB CC 136",
+        "title": "Cocurricular: Global House: Exploring Cultures & Languages II",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "HUB CC 140",
+        "title": "Cocurricular: Introduction to Sports Marketing & School Spirit",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "HUB CC 141",
+        "title": "Cocurricular: Bloom Family Leadership Academy: High-Performing Individuals &  Teams I",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "HUB CC 142",
+        "title": "Cocurricular: Bloom Family Leadership Academy: High-Performing Individuals &  Teams II",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "HUB CC 160",
+        "title": "Cocurricular: The Common Thread Podcast",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "HUB CC 161",
+        "title": "Cocurricular: Starting a Startup: Discovering and Validating Innovative Ideas",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "HUB CC 163",
+        "title": "Cocurricular: How to Launch a Project",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "HUB CC 164",
+        "title": "Cocurricular: Community Changemaking in Boston: How to Get Started Pursuing Local  Social Causes",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "HUB CC 180",
+        "title": "Cocurricular: Living History: Discovering, Processing, and Curating Archives  in the Gotlieb   Center",
+        "units": [
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "HUB CC 181",
+        "title": "Cocurricular: The Core Docent Program I",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "HUB CC 182",
+        "title": "Cocurricular: The Core Docent Program II",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 192",
+        "title": "Cocurricular: Collegiate Publishing Workshop: The Journal of the Core  Curriculum",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 193",
+        "title": "Cocurricular: Forced Displacement Studies I",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "HUB CC 194",
+        "title": "Cocurricular: Forced Displacement Studies II",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 220",
+        "title": "Cocurricular: Architects of the Arts: The CFA Peer Mentoring Experience",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 230",
+        "title": "Cocurricular: Religion and Identity Through the Lens of Israel",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "HUB CC 232",
+        "title": "Cocurricular: Experiencing Cuba: Afro-Cuban Culture, Society, and Arts",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "HUB CC 280",
+        "title": "Cocurricular: Building a Research Community",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 282",
+        "title": "Cocurricular: Public Health Education and Identity with the Boston Student  Community",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 283",
+        "title": "Cocurricular: Publicly Engaged Scholarship and Equitable Service within the  Boston Community",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB CC 284",
+        "title": "Cocurricular: Global Decolonization Initiative Research Internships",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "HUB FY 101",
+        "title": "Cocurricular: The First Year Experience",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB SA 220",
+        "title": "Cultures in Context: A BU Hub Study Abroad Experience",
+        "units": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "HUB SA 330",
+        "title": "Study Abroad Internship Course",
+        "units": [
+            "The Individual in Community"
+        ]
+    },
+    {
+        "number": "HUB SJ 101",
+        "title": "Social & Racial Justice: Systems and Structures",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "HUB SJ 102",
+        "title": "Social & Racial Justice: Advocacy and Action",
+        "units": [
+            "Social Inquiry I",
+            "The Individual in Community",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "HUB XC 410",
+        "title": "BU Cross-College Challenge Projects (WIN)",
+        "units": [
+            "Research and Information Literacy",
+            "Teamwork/Collaboration",
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "HUB XC 420",
+        "title": "BU Cross-College Challenge Projects (DME)",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Teamwork/Collaboration",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "HUB XC 433",
+        "title": "BU Cross-College Challenge Projects (OSC)",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Research and Information Literacy",
+            "Teamwork/Collaboration",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "HUB XC 475",
+        "title": "Spark! Innovation Fellowship Program",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Research and Information Literacy",
+            "Teamwork/Collaboration",
+            "Creativity/Innovation"
+        ]
+    }
+]

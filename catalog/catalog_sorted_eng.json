@@ -1,0 +1,116 @@
+[
+    {
+        "number": "ENG BE 466",
+        "title": "Biomedical Engineering Senior Project",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "ENG EC 463",
+        "title": "Senior Design Project I",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "ENG EC 464",
+        "title": "Senior Design Project II",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "ENG EC 467",
+        "title": "Senior Honors Thesis",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "ENG EK 125",
+        "title": "Introduction to Programming for Engineers",
+        "units": [
+            "Quantitative Reasoning I",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "ENG EK 210",
+        "title": "Introduction to Engineering Design",
+        "units": [
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "ENG EK 301",
+        "title": "Engineering Mechanics I",
+        "units": [
+            "Critical Thinking",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "ENG EK 381",
+        "title": "Probability, Statistics, and Data Science for Engineers",
+        "units": [
+            "Quantitative Reasoning II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "ENG ME 310",
+        "title": "Instrumentation",
+        "units": [
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "ENG ME 460",
+        "title": "Senior Design I",
+        "units": [
+            "Part of a Hub sequence"
+        ]
+    },
+    {
+        "number": "ENG ME 461",
+        "title": "Senior Design II",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "number": "ENG ME 785",
+        "title": "No longer offered",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "ENG MS 736",
+        "title": "Biomedical Transport Phenomena",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "ENG SE 732",
+        "title": "Combinatorial Optimization and Graph Algorithms",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    }
+]

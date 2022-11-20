@@ -1,0 +1,159 @@
+[
+    {
+        "number": "ENG BE 466",
+        "title": "Biomedical Engineering Senior Project",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "BE 465",
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "ENG EC 463",
+        "title": "Senior Design Project I",
+        "units": [
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "WR 150"
+        ]
+    },
+    {
+        "number": "ENG EC 464",
+        "title": "Senior Design Project II",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "EC 463",
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "ENG EC 467",
+        "title": "Senior Honors Thesis",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "EC 463",
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "ENG EK 125",
+        "title": "Introduction to Programming for Engineers",
+        "units": [
+            "Quantitative Reasoning I",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "ENG EK 210",
+        "title": "Introduction to Engineering Design",
+        "units": [
+            "Teamwork/Collaboration"
+        ],
+        "prerequisites": [
+            "EK 131",
+            "EK 131"
+        ]
+    },
+    {
+        "number": "ENG EK 301",
+        "title": "Engineering Mechanics I",
+        "units": [
+            "Critical Thinking",
+            "Creativity/Innovation"
+        ],
+        "prerequisites": [
+            "PY 211"
+        ]
+    },
+    {
+        "number": "ENG EK 381",
+        "title": "Probability, Statistics, and Data Science for Engineers",
+        "units": [
+            "Quantitative Reasoning II",
+            "Critical Thinking"
+        ],
+        "prerequisites": [
+            "EK 103",
+            "MA 225"
+        ]
+    },
+    {
+        "number": "ENG ME 310",
+        "title": "Instrumentation",
+        "units": [
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "ME 303",
+            "EK 307",
+            "EK 381",
+            "WR 120"
+        ]
+    },
+    {
+        "number": "ENG ME 461",
+        "title": "Senior Design II",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Digital/Multimedia Expression",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "ME 460",
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "ENG ME 785",
+        "title": "No longer offered",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ],
+        "prerequisites": [
+            "ME 585"
+        ]
+    },
+    {
+        "number": "ENG MS 736",
+        "title": "Biomedical Transport Phenomena",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ],
+        "prerequisites": [
+            "BE 436"
+        ]
+    },
+    {
+        "number": "ENG SE 732",
+        "title": "Combinatorial Optimization and Graph Algorithms",
+        "units": [
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ],
+        "prerequisites": [
+            "ME 411",
+            "CS 330"
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "number": "CGS HU 103",
+        "title": "Literature and Art from the Ancient World to the Enlightenment",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS HU 104",
+        "title": "Literature and Art from the Industrial Revolution to the Digital Revolution",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS HU 201",
+        "title": "History of Ethical Philosophy -- From the Ancient World to the 19th Century",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS HU 202",
+        "title": "History of 20th-Century Ethical Philosophy and Applied Ethics",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Ethical Reasoning",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "CGS HU 250",
+        "title": "Supernatural Horror in American Literature and Film",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS HU 425",
+        "title": "Trauma in History, Art & Religion",
+        "units": [
+            "Aesthetic Exploration",
+            "Social Inquiry II"
+        ]
+    },
+    {
+        "number": "CGS HU 500",
+        "title": "The History, Literature, Film, and Science of Baseball: An Interdisciplinary    Course",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CGS IN 250",
+        "title": "Cosmic Visions: The Science of Astronomy and the Arts",
+        "units": [
+            "Scientific Inquiry I",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "CGS IN 300",
+        "title": "Madonnas, Martyrs, and MILFs: Gender and Motherhood",
+        "units": [
+            "Social Inquiry I",
+            "The Individual in Community",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS MA 113",
+        "title": "Elementary Statistics ",
+        "units": [
+            "Quantitative Reasoning II"
+        ]
+    },
+    {
+        "number": "CGS MA 121",
+        "title": "Calculus",
+        "units": [
+            "Quantitative Reasoning II",
+            "Social Inquiry II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS NS 201",
+        "title": "Biology I",
+        "units": [
+            "Scientific Inquiry I",
+            "Quantitative Reasoning I",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS NS 202",
+        "title": "Human Ecology/Global Ecology",
+        "units": [
+            "Scientific Inquiry II",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "CGS RH 103",
+        "title": "Rhetorical Practices from the Ancient World to Enlightenment",
+        "units": [
+            "Writing, Research, and Inquiry",
+            "Oral and/or Signed Communication",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "CGS RH 104",
+        "title": "Rhetorical Practices from The Industrial Revolution through the Digital   Revolution",
+        "units": [
+            "First-Year Writing Seminar",
+            "Digital/Multimedia Expression",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS SS 103",
+        "title": "Politics, Economies, and Social Change in the West: The Ancient World Through   the Enlightenment",
+        "units": [
+            "Social Inquiry I",
+            "The Individual in Community",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS SS 104",
+        "title": "Politics, Economies, and Social Change in the West: The Industrial Revolution   to   the Digital Revolution",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Social Inquiry II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS SS 201",
+        "title": "Radicals, Rebels, and Revolutionaries: Agents of Global Change",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "CGS SS 202",
+        "title": "American Foreign Policy Since World War II",
+        "units": [
+            "Historical Consciousness",
+            "Research and Information Literacy",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    },
+    {
+        "number": "CGS SS 300",
+        "title": "Science and Political Engagement in the 20th Century",
+        "units": [
+            "Historical Consciousness",
+            "Social Inquiry I",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "CGS SS 320",
+        "title": "Identity Politics in the United States",
+        "units": [
+            "Social Inquiry I",
+            "The Individual in Community",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+
+            "WR 120"
+        ]
+    }
+]

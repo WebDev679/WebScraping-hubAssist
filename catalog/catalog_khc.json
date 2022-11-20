@@ -1,0 +1,477 @@
+[
+    {
+        "number": "KHC AH 101",
+        "title": "(MIS)REPRESENTING HISTORY IN ART",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "KHC AM 101",
+        "title": "Whose Schools: Power, Equality and Public Education",
+        "units": [
+            "The Individual in Community",
+            "Social Inquiry II",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC AN 102",
+        "title": "The Lives of Others: The Power, Politics, and Ethics of Storytelling",
+        "units": [
+            "Social Inquiry I",
+            "Global Citizenship and Intercultural Literacy",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "KHC AN 103",
+        "title": "Animals among Humans",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC AN 104",
+        "title": "Wildlife Conservation",
+        "units": [
+            "The Individual in Community",
+            "Digital/Multimedia Expression",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC AS 101",
+        "title": "The Pluto Saga: Interactions Between Science, Society, Art and Religion",
+        "units": [
+            "Scientific Inquiry II",
+            "Quantitative Reasoning II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC CH 140",
+        "title": "The Material World ",
+        "units": [
+            "Scientific Inquiry I",
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC EC 103",
+        "title": "Housing Policy: An Economic Perspective",
+        "units": [
+            "Quantitative Reasoning II",
+            "Social Inquiry II",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC EH 103",
+        "title": "Race in America: Understanding the Present by Exploring the Past",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC EK 103",
+        "title": "Mechanics on the Charles River Esplanade",
+        "units": [
+            "Scientific Inquiry I",
+            "Quantitative Reasoning I"
+        ]
+    },
+    {
+        "number": "KHC EK 104",
+        "title": "Appreciation of music in a STEM context",
+        "units": [
+            "Aesthetic Exploration",
+            "Quantitative Reasoning II",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC EN 102",
+        "title": "Ancient and Modern Quarrels: Fiction and Philosophy Since 1900 ",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Aesthetic Exploration",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC EN 103",
+        "title": "Poetry as Activism",
+        "units": [
+            "Aesthetic Exploration",
+            "The Individual in Community",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC EN 104",
+        "title": "Writing Lives: The Craft and Forms of Literary Biography",
+        "units": [
+            "Aesthetic Exploration",
+            "Research and Information Literacy",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC FT 102",
+        "title": "UnAmerican Cinema",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC FT 103",
+        "title": "Screenwriting: Doing Justice Through Adaptation",
+        "units": [
+            "Aesthetic Exploration",
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "WR 100",
+            "WR 120"
+        ]
+    },
+    {
+        "number": "KHC HC 301",
+        "title": "Interdisciplinary Perspectives on Global Challenges I",
+        "units": [
+            "Historical Consciousness",
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC HC 302",
+        "title": "Interdisciplinary Perspectives on Global Challenges II",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Social Inquiry II",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "KHC HC 401",
+        "title": "Epistemologies and the Process of Inquiry",
+        "units": [
+            "Quantitative Reasoning II",
+            "Research and Information Literacy",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "KHC HC 451",
+        "title": "Kilachand Keystone Proposal Workshop",
+        "units": [
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "WR 100",
+            "WR 120",
+            "), 3.0",
+            "3. 0cu"
+        ]
+    },
+    {
+        "number": "KHC HC 501",
+        "title": "People in Process: Lives & Works ",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings"
+        ]
+    },
+    {
+        "number": "KHC HC 502",
+        "title": "People in Process: Choice & Change - Writing Intensive ",
+        "units": [
+            "Writing-Intensive Course"
+        ],
+        "prerequisites": [
+            "WR 100",
+            "WR 120"
+        ]
+    },
+    {
+        "number": "KHC HC 503",
+        "title": "Keystone Independent Study I",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC HC 504",
+        "title": "Keystone Independent Study II",
+        "units": [
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC HC 512",
+        "title": "People in Process: Choice & Change - Oral/Signed Communication",
+        "units": [
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "number": "KHC HC 522",
+        "title": "People in Process: Choice & Change - Digital/Multimedia Expression",
+        "units": [
+            "Digital/Multimedia Expression"
+        ]
+    },
+    {
+        "number": "KHC HI 102",
+        "title": "The Culture of World War I  ",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness"
+        ]
+    },
+    {
+        "number": "KHC HI 104",
+        "title": "Urban Youth in the Middle East",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC IR 102",
+        "title": "Spies and Terrorists of Boston",
+        "units": [
+            "Ethical Reasoning",
+            "Oral and/or Signed Communication",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "KHC LW 102",
+        "title": "Marriage, Families & Gender: Contemporary Legal and Social Controversies",
+        "units": [
+            "Ethical Reasoning",
+            "Social Inquiry II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC MD 101",
+        "title": "Fractured Lives and Bodies: Forensic Anthropology, Disasters, and Human Rights",
+        "units": [
+            "Scientific Inquiry I",
+            "Global Citizenship and Intercultural Literacy",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC MU 104",
+        "title": "Race, Gender, Music, and the Making of Latin America",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC NE 102",
+        "title": "Reading, Language, and the Brain ",
+        "units": [
+            "Scientific Inquiry I",
+            "Social Inquiry I",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC PH 103",
+        "title": "Seeing Poverty",
+        "units": [
+            "Social Inquiry I",
+            "The Individual in Community",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC PH 104",
+        "title": "Planning to Fix Health Problems",
+        "units": [
+            "Social Inquiry I",
+            "Quantitative Reasoning I"
+        ]
+    },
+    {
+        "number": "KHC PO 102",
+        "title": "How to Change the World ",
+        "units": [
+            "Historical Consciousness",
+            "Oral and/or Signed Communication",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC PO 103",
+        "title": "Democracy and Capitalism in the United States",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Digital/Multimedia Expression",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "number": "KHC PY 102",
+        "title": "Chance, Fluctuations and Their Relevance to Our Daily Lives",
+        "units": [
+            "Scientific Inquiry I",
+            "Quantitative Reasoning II",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC RH 101",
+        "title": "Serious Comics: Graphic Narrative and the Representation of History",
+        "units": [
+            "Aesthetic Exploration",
+            "Oral and/or Signed Communication",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC RH 102",
+        "title": "A Nation Riven: Turbulence and Transformation in 1960s America and Today",
+        "units": [
+            "Historical Consciousness",
+            "The Individual in Community",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC RH 103",
+        "title": "A Reexamination of Childhood through Children?s Literature and Community-Based    Learning",
+        "units": [
+            "Aesthetic Exploration",
+            "The Individual in Community",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC RH 104",
+        "title": "The Pursuit of Happiness",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Digital/Multimedia Expression",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC RN 103",
+        "title": "Islam in the Eyes of the West ",
+        "units": [
+            "Historical Consciousness",
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "number": "KHC SM 102",
+        "title": "Reforming the U.S. Health Care System",
+        "units": [
+            "Global Citizenship and Intercultural Literacy",
+            "Social Inquiry II",
+            "Research and Information Literacy"
+        ]
+    },
+    {
+        "number": "KHC SO 101",
+        "title": "Social Networks and Culture",
+        "units": [
+            "Quantitative Reasoning I",
+            "Social Inquiry II"
+        ]
+    },
+    {
+        "number": "KHC ST 111",
+        "title": "Studio I",
+        "units": [
+            "First-Year Writing Seminar"
+        ]
+    },
+    {
+        "number": "KHC ST 112",
+        "title": "Studio II",
+        "units": [
+            "Writing, Research, and Inquiry"
+        ]
+    },
+    {
+        "number": "KHC TH 102",
+        "title": "Aesthetics and Dance: Form and Structure",
+        "units": [
+            "Aesthetic Exploration",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC UC 104",
+        "title": "The Ethics of Food",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC UC 105",
+        "title": "Liberty, Fanaticism & Censorship",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC UC 106",
+        "title": "Biomedical Enhancement and the Future of Human Nature",
+        "units": [
+            "Philosophical Inquiry and Life's Meanings",
+            "Ethical Reasoning",
+            "Critical Thinking"
+        ]
+    },
+    {
+        "number": "KHC VA 104",
+        "title": "More than a Face: What Masks Reveal",
+        "units": [
+            "Aesthetic Exploration",
+            "Global Citizenship and Intercultural Literacy",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC XL 101",
+        "title": "Global Shakespeares: Text, Culture, Appropriation ",
+        "units": [
+            "Aesthetic Exploration",
+            "Global Citizenship and Intercultural Literacy",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "number": "KHC XL 103",
+        "title": "Problems in Propaganda and Persuasion ",
+        "units": [
+            "Aesthetic Exploration",
+            "Historical Consciousness",
+            "Critical Thinking"
+        ]
+    }
+]
