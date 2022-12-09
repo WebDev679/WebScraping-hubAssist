@@ -5,8 +5,8 @@ import random
 
 
 database = []
-for i in range(1, 3):
-    URL = "https://www.bu.edu/academics/cgs/courses/" + str(i)
+for i in range(1, 23):
+    URL = "https://www.bu.edu/academics/questrom/courses/" + str(i)
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, 'lxml')
 
@@ -25,7 +25,7 @@ for i in range(1, 3):
     print(i)
 
 new_JsonFile = []
-
+print(database)
 for j in database:
     if len(j[2]) != 0:
         object = {}
@@ -37,5 +37,5 @@ for j in database:
 
 json_Object = json.dumps(new_JsonFile, indent=4)
 
-with open('catalog_sorted_cgs.json', 'w') as f:
+with open('catalog_sorted_qst_new.json', 'w') as f:
     f.write(json_Object)

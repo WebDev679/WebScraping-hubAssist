@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import random
 
-CATALOG_PATH = 'catalog_sorted_qst.json'
+CATALOG_PATH = 'catalog_final_2.json'
 
 catalog_descriptions = json.load(open(CATALOG_PATH))
 
@@ -40,7 +40,7 @@ for i in catalog_descriptions:
 
 jsonObject = json.dumps(newJsonFile, indent=4)
 
-with open('catalog_qst.json', 'w') as f:
+with open('catalog_final_3.json', 'w') as f:
     f.write(jsonObject)
 
 

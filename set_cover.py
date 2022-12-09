@@ -65,15 +65,11 @@ def prereq_reduction(G):
     course1 = []
     courses = G[:]
     deleted_courses = []
-    print(type(courses))
     for t, v in enumerate(courses):
         #print(v['prerequisites'])
         setA = set(v['prerequisites'])
         setB = set(courses_taken)
         if setA.issubset(setB):
-            if v['number'] == 'CAS CH 232':
-                print(setA)
-                print(setB)
             course1.append(v['number'])
             pass
         else:
@@ -147,9 +143,11 @@ print(len(catalog))
 # init mutables
 courses = list(range(len(catalog)))
 dump = ''
+print(catalog)
+#catalog = sorted(catalog, key=lambda d: d['hoursPerWeek']) 
+
 # Search for courses.  Example: No more than 8 courses; I require multiple of the same unit for writing and reasearch literacy.
-while len(courses) > 8 or dump.count("Writing-Intensive Course") < 2 or dump.count("Research and Information Literacy") < 2:
-    random.shuffle(catalog)  # Delete this to prioritize low level courses (100s first and up)
+while len(courses) > 15 or dump.count("Writing-Intensive Course") < 2 or dump.count("Research and Information Literacy") < 2:
     """rerun this multiple times to get new combinations: We need 3 solutions each with 8 courses;
             The user can choose out of the three and maybe even cris-cross the answers. (but it is not advisable)
     """
@@ -163,7 +161,7 @@ while len(courses) > 8 or dump.count("Writing-Intensive Course") < 2 or dump.cou
         catalog[e] for e in courses
     ], indent=2, sort_keys=True)
 
-    #print(len(courses), dump.count("Writing-Intensive Course"), dump.count("Research and Information Literacy"))
+    print(len(courses), dump.count("Writing-Intensive Course"), dump.count("Research and Information Literacy"))
 
 # Write output to console in JSON format.
 dump = json.dumps([

@@ -29,8 +29,11 @@ def prereq_reduction(G):
     for t, v in enumerate(courses):
         count = 0
         try:
+            print(v['prerequisites'])
             for d in v['prerequisites']:
                 for s in courses_taken:
+                    print(d)
+                    print(s)
                     if d == s:
                         count += 1
             if count != len(v['prerequisites']):
